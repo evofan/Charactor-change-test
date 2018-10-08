@@ -1,1 +1,1 @@
-# Cocos Creator上のスクリプトをGitHubに上げるテスト
+# Cocos Creatorでアニメーションを切り替えるスクリプト
