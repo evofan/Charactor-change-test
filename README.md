@@ -1,1 +1,1 @@
-# test2
+# Cocos Creator上のスクリプト
