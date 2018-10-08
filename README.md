@@ -1,1 +1,1 @@
-# Cocos Creator上のスクリプト
+# Cocos Creator上のスクリプトをGitHubに上げるテスト
