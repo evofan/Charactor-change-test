@@ -1,1 +1,2 @@
-# Cocos Creatorでアニメーションを切り替えるスクリプト
+# Charactor-change-test
+Cocos Creatorでアニメーションを切り替えるスクリプト
