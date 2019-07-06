@@ -1,7 +1,7 @@
 # Sample script to switch animation in Cocos Creator.
 
 **DEMO**  
-[https://evofan.github.io/Charactor-change-test/](hhttps://evofan.github.io/Charactor-change-test/)  
+[https://evofan.github.io/Charactor-change-test/](https://evofan.github.io/Charactor-change-test/)  
 
 **Cocos Creator**  
 [https://cocos2d-x.org/products#creator](https://cocos2d-x.org/products#creator)  
