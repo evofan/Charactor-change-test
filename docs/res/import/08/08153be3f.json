@@ -48,8 +48,8 @@
       },
       "_scale": {
         "__type__": "cc.Vec3",
-        "x": 0.6157470703125,
-        "y": 0.6157470703125,
+        "x": 0.615625,
+        "y": 0.615625,
         "z": 1
       },
       "autoReleaseAssets": false
@@ -242,10 +242,12 @@
             "__id__": 7
           },
           "_useOriginalSize": false,
-          "_string": "画面タッチでキャラの向きを変更",
-          "_N$string": "画面タッチでキャラの向きを変更",
+          "_string": "Touch the screen to change\nthe orientation of the character.",
+          "_N$string": "Touch the screen to change\nthe orientation of the character.",
+          "_lineHeight": 90,
           "_N$horizontalAlign": 1,
-          "_N$verticalAlign": 1
+          "_N$verticalAlign": 1,
+          "_N$overflow": 3
         }
       ],
       "_color": {
@@ -256,13 +258,13 @@
       },
       "_contentSize": {
         "__type__": "cc.Size",
-        "width": 600,
-        "height": 40
+        "width": 1054.02,
+        "height": 180
       },
       "_position": {
         "__type__": "cc.Vec3",
-        "x": 17,
-        "y": 206
+        "x": 20,
+        "y": 157
       }
     }
   ],
