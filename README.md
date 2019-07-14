@@ -3,6 +3,8 @@
 **DEMO**  
 [https://evofan.github.io/Charactor-change-test/](https://evofan.github.io/Charactor-change-test/)  
 
+reference  
+
 **Cocos Creator**  
 [https://cocos2d-x.org/products#creator](https://cocos2d-x.org/products#creator)  
 use ver. 2.0.19
